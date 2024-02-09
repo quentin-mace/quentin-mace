@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quentin-mace
 - 👀 I’m interested in AI and Cybersecurity
-- 🌱 I’m currently learning how to code (with Java)
+- 🌱 I’m currently learning how to code (with Java and C++)
 - 💞️ I’m looking to collaborate on interesting and usefull projects
 - 📫 How to reach me : quentin.mace.1110@gmail.com
 
