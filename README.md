@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quentin-mace
-- 👀 I’m interested in AI, Cybersecurity, game desing and all kind of software developement projects
-- 🌱 I’m currently learning how to code 
+- 👀 I’m interested in WebDev, AI, Cybersecurity, game desing and all kind of software developement projects
+- 🌱 I’m currently learning PHP/Symfony in a work-study contract
 - 💞️ I’m looking to collaborate on interesting and usefull projects
 - 📫 How to reach me : quentin.mace.1110@gmail.com
 
