@@ -35,7 +35,7 @@ J’aime créer des projets logiciels utiles et innovants, notamment autour du w
 
 ---
 
-[![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentin-mace&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
