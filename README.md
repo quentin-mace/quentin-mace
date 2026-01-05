@@ -35,10 +35,6 @@ J’aime créer des projets logiciels utiles et innovants, notamment autour du w
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🤝 Let's Collaborate! | Collaborons !
 
 Feel free to contact me if you have a project idea or just want to talk tech 🚀  
