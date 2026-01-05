@@ -21,7 +21,7 @@ J’aime créer des projets logiciels utiles et innovants, notamment autour du w
   Ouvert à la collaboration sur des projets intéressants et utiles
 
 - 📫 **Contact**  
-  quentin.mace.1110@gmail.com
+  quentin.mace.1110@proton.me
 
 ---
 
