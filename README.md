@@ -1,23 +1,40 @@
-## 👋 Hi, I'm **Quentin Macé**
-### 💻 Backend Software Developer  
+<!-- ===================== -->
+<!-- 👋 HEADER -->
+<!-- ===================== -->
 
-> Passionate about building **clean, useful and modern software**, with a strong interest in **web development**, **backend technologies**, and **software quality**.
+## 👋 Hi, I'm **Quentin Macé**
+### 💻 Backend Software Developer
+
+> I build **clean, reliable and modern backend applications**, with a strong focus on **web technologies**, **software quality**, and **maintainable architectures**.
+
+---
+
+<!-- ===================== -->
+<!-- 🏷️ BADGES -->
+<!-- ===================== -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-Symfony-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 **Software Developer (Work-Study Program)**  
-  Currently working with **PHP & Symfony**
+- 👨‍💻 **Backend Software Developer (Work-Study Program)**  
+  Working mainly with **PHP & Symfony**
 
-- 🌱 **Always learning**  
+- 🌱 **Continuous learner**  
   Clean Code, software architecture, security fundamentals
 
-- 💡 **What I enjoy building**  
-  Web applications, developer tools, and personal side projects
+- 💡 **What I like building**  
+  Web applications, backend services, developer tools, and side projects
 
 - 🤝 **Open to collaboration**  
-  Open to contributing to open-source projects or collaborating on interesting ideas
+  Open to open-source contributions and meaningful collaborations
 
 - 📫 **Contact**  
   📧 **quentin.mace.1110@proton.me**
@@ -27,98 +44,90 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-- PHP  
-- Symfony  
-- MySQL / PostgreSQL  
+- **PHP**, **Symfony**
+- **PostgreSQL**, MySQL
+- REST APIs
 
 ### 🔹 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- Tailwind CSS  
-- TypeScript (basic knowledge)
+- HTML, CSS, JavaScript
+- Tailwind CSS
+- TypeScript *(basic knowledge)*
 
 ### 🔹 Tools & Environment
-- Git  
-- Linux  
-- JetBrains IDE
-
-### 🔹 Interests
-- Artificial Intelligence  
-- Cybersecurity  
-- Game Development  
-- Open Source  
-- Clean Code  
+- Git
+- Linux
+- JetBrains IDEs
 
 ---
 
 ## 📌 Projects
 
-> Below are some projects I’ve worked on or currently working on.  
+> A selection of personal and academic projects I’ve worked on.
 
 ### 🔹 **Job Sniper**
-**Description:**  
-The new way to look for a job. Job application tracker.
+**Job application tracker designed to simplify and organize the job search process.**
 
-**Features:**
-- Track all current applications
-- Automatically send reminders
-- Show stats for your applications
+**Key Features**
+- Track all job applications in one place
+- Automatic reminders and follow-ups
+- Application statistics and insights
 
-**Tech Stack:**  
-PHP, Symfony, PGSQL, Tailwind CSS, Rust microservice
+**Tech Stack**  
+PHP · Symfony · PostgreSQL · Tailwind CSS · Rust microservice
 
 ---
 
 ### 🔹 **Green Goodies**
-**Description:**  
-Fake e-commerce website.
+**Mock e-commerce platform built to explore modern web application architecture.**
 
-**Features:**
-- All basic features for a e-commerce website
-- Small API
+**Key Features**
+- Core e-commerce features (catalog, cart, orders)
+- Custom REST API
 
-**Tech Stack:**  
-PHP, Symfony, PGSQL, Tailwind CSS, Docker
+**Tech Stack**  
+PHP · Symfony · PostgreSQL · Tailwind CSS · Docker
 
 ---
 
 ### 🔹 **Eco Garden API**
-**Description:**  
-Fake API for gardening advice
+**REST API providing gardening advice and plant-related data.**
 
-**Focus:**
-- Providing REST API
-- Consuming public API
+**Focus**
+- REST API design
+- Consuming and aggregating public APIs
 
-**Tech Stack:**  
-Symfony, PHP, Http Clients
+**Tech Stack**  
+PHP · Symfony · HTTP Clients
 
 ---
 
 ## 🧰 Languages & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+### 🔹 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🔹 Frameworks & Libraries
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔹 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let’s Collaborate
 
 🚀 Have a project idea, an opportunity, or just want to talk tech?  
-📩 Feel free to reach out — I’d be happy to connect!
+📩 Feel free to reach out — I’d be happy to connect.
 
 ---
 
-> *Always learning, always building.*
+> *Always learning. Always building.*
